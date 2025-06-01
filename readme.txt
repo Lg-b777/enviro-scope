@@ -1,10 +1,10 @@
 === Enviroscope ===
 Contributors: lg-b777
 Tags: environment, scanner, plugin, WordPress, sniffer
+Stable tag: 1.0.0
 Requires at least: 5.0
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,4 +35,4 @@ No. It’s optimized for performance and only runs on the admin side.
 First version available.
 
 == Credits ==
-Built with assistance from AI and open-source contributors.
+Built with assistance from AI and open-source contributors
